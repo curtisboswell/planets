@@ -1,4 +1,8 @@
 Cold and dry but everything is my favourite colour.
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 this line is added by Anne to show an example of conflict 
+=======
+THERE IS NO GOD.
+>>>>>>> 2866d94d0a8476ec5f5496718521a4648afb0d35
